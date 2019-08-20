@@ -89,7 +89,7 @@ Sepet sayfasında yer alması gereken script tag'i.
     <script>
         window.beyondvisit_q.push({
             event:"cart",values:[
-            {sku:"<product_code>",price_sell:"<price_sell>",currency:"<currency>",quantity:"<quantity>"},
+            {Sku:"<product_code>",Price_Sell:"<price_sell>",Currency:"<currency>",Quantity:"<quantity>"},
             ..
             ...
             ....
